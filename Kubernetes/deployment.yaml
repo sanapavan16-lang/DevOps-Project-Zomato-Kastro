@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: zomato
-        image: yaswanth032/zomato:latest
+        image: pavansana/zomato-app:latest
         ports:
         - containerPort: 3000
